@@ -1,1 +1,1 @@
-"# Othello_C-" 
+"# Othello_C++" 
